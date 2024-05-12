@@ -1,0 +1,2 @@
+# ElaboratoAOCR
+Si smucina.
