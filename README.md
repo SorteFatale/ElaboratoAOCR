@@ -1,2 +1,2 @@
 # Elaborato AOCR
-Si smucina.
+Modellazione del problema del FSTSP
